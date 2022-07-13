@@ -1,7 +1,0 @@
-Your client id:-
-
-908967641479-16lucdabjr68usulgqsh8psadkqjaluj.apps.googleusercontent.com
-
-Your client secret:-
-
-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
