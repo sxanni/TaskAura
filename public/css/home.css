@@ -1,0 +1,57 @@
+img{
+	/* position: absolute; */
+	/* top: -130px; */
+	/* margin:auto; */
+	width:50%;
+	margin-left:25%;
+
+
+}
+
+.todohome {
+	margin: 60px 0 40px 0;
+	position: relative;
+}
+
+.todohome h1 {
+	/* position: absolute; */
+	top: -140px;
+	width: 100%;
+	font-size: 80px;
+	font-weight: 200;
+	text-align: center;
+	color: black;
+	-webkit-text-rendering: optimizeLegibility;
+	-moz-text-rendering: optimizeLegibility;
+	text-rendering: optimizeLegibility;
+}
+
+.todohome section {
+	padding-top: 1px;
+	text-align: center;
+}
+
+.todohome h2 {
+	padding-bottom: 48px;
+	font-size: 28px;
+	font-weight: 300;
+}
+
+.todohome .button {
+	padding: 13px 45px;
+	font-size: 16px;
+	font-weight: 500;
+	color: white;
+	border-radius: 5px;
+	background: Black;
+}
+
+.todohome a.button {
+	text-decoration: none;
+}
+
+.todohome a:hover {
+	text-decoration: none;
+	background: #c83f45;
+
+}
